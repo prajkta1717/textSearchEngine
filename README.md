@@ -1,4 +1,4 @@
-<div style="text-align:center"><b>Text Search Engine for Trending Videos on Youtube</b></br></div>
+#Text Search Engine for Trending Videos on Youtube
 Search a trending video by putting name in Search box.</br>
 
 Required libraries:</br>
